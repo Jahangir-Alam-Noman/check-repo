@@ -1,0 +1,28 @@
+body{
+  background-image: url("../images/background.jpg");
+}
+
+#blogPost{
+  padding-top: 100px;
+
+  .h1 {
+    font-size: 100px;
+    padding-bottom: 50px;
+  }
+  .fa{
+    font-size: $rahim;
+  }
+  .h2{
+    color: $kuddus;
+    span{
+      color: white;
+
+    }
+
+  }
+  .content{
+    color: $jubbar;
+  }
+
+}
+

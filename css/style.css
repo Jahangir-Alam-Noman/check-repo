@@ -1,0 +1,23 @@
+body {
+  background-image: url("../images/background.jpg");
+}
+
+#blogPost {
+  padding-top: 100px;
+}
+#blogPost .h1 {
+  font-size: 100px;
+  padding-bottom: 50px;
+}
+#blogPost .fa {
+  font-size: 80px;
+}
+#blogPost .h2 {
+  color: white;
+}
+#blogPost .h2 span {
+  color: white;
+}
+#blogPost .content {
+  color: #FFFF00;
+}
